@@ -2,7 +2,7 @@
 
 ## Theme
 
-(TBA)
+You awoke from cryo-sleep to screaming alarms and an empty ship. A catastrophic failure scattered five critical hyperdrive parts across the vessel, and a rogue black hole will tear the hull apart in exactly seven cycles. Scavenge the dark sectors, rebuild the engine, and jump us out of this graveyard before it is too late.
 
 ## Goal
 
