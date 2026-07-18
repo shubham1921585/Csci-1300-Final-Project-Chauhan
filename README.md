@@ -31,9 +31,13 @@ Manage your oxygen carefully. If you run our, you will pass out, forcing an emer
 ## Classes
 
 Item: Represents objects in the game. It stores the item's name and type (such as "scrap" or "hyperdrive_part").
+
 Player: Represents the ship's captain. Manages core stats including oxygen levels, credits, and an array of Item objects that acts as the inventory. 
+
 Character: A parent class representing entities on the ship. It stores basic data like the crew member's name and their current location. 
+
 Smuggler: A child class that inherits from Character. Acts as the game's risk/reqard tradeoff system, aaloowing player to trade a massive amount of oxygen for a guarenteed hyperdrive part.
+
 Game: The main engine class. It handles file I/O by loading the map from rooms.txt, manages the main game loop, controls the passage of cycles, and checks the win/loss conditions. 
 
 ## Extra credit
